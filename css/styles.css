@@ -1,0 +1,41 @@
+
+
+
+  /* height: 300px; */
+  body {
+    margin: 0;
+
+  }
+
+  /* div is a block on its own and it has default setting */
+
+h1{
+  margin-top: 0;
+
+}
+/* div {
+background-color:blue;
+} */
+
+.topcontainer  {
+  background-color: #EAF6F6;
+  height:200px;
+  width: 200px;
+  padding:20px;
+  border:solid 10px;
+  margin:10px;
+}
+
+.middlecontainer{
+
+  height:200px;
+  width: 200px;
+  background-color: pink;
+}
+
+
+.bottomcontainer{
+height: 200px;
+  width: 200px;
+  background-color: green;
+}

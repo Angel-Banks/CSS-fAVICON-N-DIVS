@@ -5,6 +5,7 @@
   /* height: 300px; */
   body {
     margin: 0;
+    background-color: gold;
 
   }
 
@@ -43,4 +44,30 @@ height: 200px;
   background-color: green;
   margin-left: 480px;
   border: solid 20px;
+  border-bottom: 0;
 }
+
+.lastcontainer {
+  background-color: aqua;
+  height: 200px;
+  width: 200px;
+
+  border:solid;
+  border-width:0 10px 20px 30px; 
+  /* or use border width: 50px to take effect on all sides i.e equal */
+  /* you have to specify the border:solid before using 
+  border width. If not, it won't take effect */
+}
+
+.beyondcontainer{
+  height: 200px;
+    width: 200px;
+    /* the width of 100% fills up the entire width of the viewport of the user's device */
+    background-color: brown;
+    position: relative;
+    left: 50px;
+   
+
+}
+ 
+   

@@ -24,7 +24,7 @@ background-color:blue;
   width: 200px;
   padding:20px;
   border:solid 10px;
-  margin:10px;
+  /* margin:10px; */
 }
 
 .middlecontainer{
@@ -32,6 +32,8 @@ background-color:blue;
   height:200px;
   width: 200px;
   background-color: pink;
+  margin-left: 260px;
+  border: solid 10px;
 }
 
 
@@ -39,4 +41,6 @@ background-color:blue;
 height: 200px;
   width: 200px;
   background-color: green;
+  margin-left: 480px;
+  border: solid 20px;
 }
